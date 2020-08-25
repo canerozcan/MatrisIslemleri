@@ -1,0 +1,15 @@
+1 4 7
+2 5 8
+3 6 9
+Determinant Sonucu :
+-----
+4 4 4
+3 3 3
+2 2 2
+Determinant Sonucu :0
+-----
+* * *
+* * *
+* * *
+Determinant Sonucu :0
+-----
